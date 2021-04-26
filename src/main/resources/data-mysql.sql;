@@ -1,0 +1,5 @@
+INSERT INTO program (name, description) VALUES ('LeadershipDevelopmentProgram', 'Learn how to develop leadership skills');
+
+INSERT INTO section(name, desciption, image_path, order_index) VALUES ('section2', 'introduction', '/resources/image.png', '2');
+
+INSERT INTO activity(name, html_content) VALUES ('activity1', 'hello world');
